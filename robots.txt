@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://earynest.github.io/sitemap
+Sitemap: https://earynest.github.io/app/sitemap
+Sitemap: https://earynest.github.io/assets/sitemap
+Sitemap: https://earynest.github.io/css/sitemap
+Sitemap: https://earynest.github.io/includes/sitemap
+Sitemap: https://earynest.github.io/item/sitemap
+Sitemap: https://earynest.github.io/src/sitemap
